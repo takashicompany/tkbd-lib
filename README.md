@@ -13,7 +13,7 @@ Released under the MIT license
 https://github.com/keebio/Keebio-Parts.pretty/blob/master/LICENSE
 
 daprice/keyswitches.pretty  
-https://github.com/daprice/keyswitches.pretty/blob/master/LICENSE.md
+https://github.com/daprice/keyswitches.pretty/blob/master/LICENSE.md  
 変更点はこちらを参照: https://github.com/takashicompany/tkbd-lib/commits/master
 
 ---
