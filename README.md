@@ -4,15 +4,16 @@
 
 # ライセンス
 
-Copyright (c) 2020 foostan
-Released under the MIT license
+Copyright (c) 2020 foostan  
+Released under the MIT license  
 https://github.com/foostan/kbd/blob/master/LICENSE
 
-Copyright (c) 2018 Keebio
-Released under the MIT license
+Copyright (c) 2018 Keebio  
+Released under the MIT license  
 https://github.com/keebio/Keebio-Parts.pretty/blob/master/LICENSE
 
-daprice/keyswitches.pretty
+daprice/keyswitches.pretty  
 https://github.com/daprice/keyswitches.pretty/blob/master/LICENSE.md
+変更点はこちらを参照: https://github.com/takashicompany/tkbd-lib/commits/master
 
 ---
