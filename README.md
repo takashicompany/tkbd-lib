@@ -11,7 +11,8 @@
 <img src = "https://user-images.githubusercontent.com/4215759/122634237-faf8e280-d117-11eb-9282-afc150473b0e.png" width="200">|[ProMicro_v3.5_print-inside.kicad_mod](https://github.com/takashicompany/tkbd-lib/blob/master/kicad-footprints/takashicompany.pretty/ProMicro_v3.5_print-inside.kicad_mod)
 <img src = "https://user-images.githubusercontent.com/4215759/122634245-077d3b00-d118-11eb-8544-811096824d8e.png" width="200">|[WS2812B_TH.kicad_mod](https://github.com/takashicompany/tkbd-lib/blob/master/kicad-footprints/takashicompany.pretty/WS2812B_TH.kicad_mod)
 
-
+# 補足事項
+- このライブラリを使用し、問題が発生しても責任は負いかねます。
 
 # ライセンス
 
@@ -26,5 +27,3 @@ https://github.com/keebio/Keebio-Parts.pretty/blob/master/LICENSE
 daprice/keyswitches.pretty  
 https://github.com/daprice/keyswitches.pretty/blob/master/LICENSE.md  
 変更点はこちらを参照: https://github.com/takashicompany/tkbd-lib/commits/master
-
----
