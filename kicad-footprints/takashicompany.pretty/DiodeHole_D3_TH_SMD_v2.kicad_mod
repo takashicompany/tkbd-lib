@@ -1,0 +1,25 @@
+(module DiodeHole_D3_TH_SMD_v2 (layer F.Cu) (tedit 61E3FCB3)
+  (descr "Resitance 3 pas")
+  (tags R)
+  (autoplace_cost180 10)
+  (fp_text reference D33 (at 0.55 0 -180) (layer F.Fab) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text value D (at -0.55 0 -180) (layer F.Fab) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_line (start -4.318 -1.016) (end -4.318 1.016) (layer Dwgs.User) (width 0.12))
+  (fp_line (start -4.318 1.016) (end 4.318 1.016) (layer Dwgs.User) (width 0.12))
+  (fp_line (start 4.318 1.016) (end 4.318 -1.016) (layer Dwgs.User) (width 0.12))
+  (fp_line (start 4.318 -1.016) (end -4.318 -1.016) (layer Dwgs.User) (width 0.12))
+  (model Diodes_SMD.3dshapes/SMB_Handsoldering.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.22 0.15 0.15))
+    (rotate (xyz 0 0 180))
+  )
+  (model /Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
