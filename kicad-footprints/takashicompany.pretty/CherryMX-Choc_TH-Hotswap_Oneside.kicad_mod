@@ -143,7 +143,7 @@
   (pad "2" thru_hole oval (at 0 5.9) (size 2.5 2) (drill oval 1.2 0.8) (layers *.Cu "F.SilkS" "B.Mask") (tstamp 087c36be-7bc6-4429-b8df-bd7c9a0ee9b0))
   (pad "2" smd rect (at 5.842 -5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 618b3c34-9171-4c59-aabc-1aae86c7bd69))
   (pad "2" thru_hole oval (at -2.54 5.08 180) (size 2.5 2) (drill oval 1.2 0.8) (layers *.Cu "F.SilkS" "B.Mask") (tstamp 6c4b830d-aba1-4b35-9bf2-ad9906246a79))
-  (pad "2" smd rect (at 8.3 -3.7) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 80d8937e-892b-4a09-92f5-a847e018a4d5))
+  (pad "2" smd rect (at 8.0512 -3.994) (size 3.0976 3.188) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 80d8937e-892b-4a09-92f5-a847e018a4d5))
   (model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/Kailh-CherryMX-Socket.step"
     (offset (xyz -1.3 7.6 -3.6))
     (scale (xyz 1 1 1))
