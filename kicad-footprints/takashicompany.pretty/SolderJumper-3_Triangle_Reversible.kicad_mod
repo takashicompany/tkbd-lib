@@ -20,7 +20,7 @@
   (fp_line (start 1.4 1) (end -1.4 1) (layer "F.SilkS") (width 0.12) (tstamp 9d27c24a-5a0f-4d7c-a5bb-00e21f0076cb))
   (fp_line (start -1.4 1) (end -1.4 -1) (layer "F.SilkS") (width 0.12) (tstamp d04fdd23-47de-43bd-bbab-dbb20562ffa1))
   (fp_line (start 1.4 -1) (end 1.4 1) (layer "F.SilkS") (width 0.12) (tstamp d3bc27d2-0711-4b88-9f24-0c23bc0fda82))
-  (pad "1" smd custom (at -0.725 0) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
+  (pad "1" smd custom (at -0.725 0) (size 0.3 0.3) (layers "B.Cu" "B.Mask")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -31,7 +31,7 @@
           (xy 0.5 0.75)
           (xy -0.5 0.75)
         ) (width 0) (fill yes))
-    ) (tstamp 6cdc4226-bec3-4ca1-8a95-67d830e2bc1c))
+    ) (tstamp 1ddff70d-48d7-4bf6-bc28-3c0ef3e301f2))
   (pad "2" smd custom (at 0.725 0) (size 0.3 0.3) (layers "B.Cu" "B.Mask")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
@@ -56,7 +56,7 @@
           (xy -0.15 0)
         ) (width 0) (fill yes))
     ) (tstamp cd256d95-84d0-4d57-a8a2-713e9714520d))
-  (pad "3" smd custom (at -0.725 0) (size 0.3 0.3) (layers "B.Cu" "B.Mask")
+  (pad "3" smd custom (at -0.725 0) (size 0.3 0.3) (layers "F.Cu" "F.Mask")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -67,5 +67,5 @@
           (xy 0.5 0.75)
           (xy -0.5 0.75)
         ) (width 0) (fill yes))
-    ) (tstamp 1ddff70d-48d7-4bf6-bc28-3c0ef3e301f2))
+    ) (tstamp 6cdc4226-bec3-4ca1-8a95-67d830e2bc1c))
 )
