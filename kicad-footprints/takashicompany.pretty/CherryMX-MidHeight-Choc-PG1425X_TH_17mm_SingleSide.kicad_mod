@@ -43,11 +43,11 @@
   (pad "" np_thru_hole circle (at 0 0 90) (size 4 4) (drill 4) (layers *.Cu *.Mask) (tstamp e579bca4-7c8c-4bf1-9395-db18fbde2283))
   (pad "" np_thru_hole oval (at 2.4 0.9) (size 0.3 4.1) (drill oval 0.3 4.1) (layers *.Cu *.Mask) (tstamp f6cd5e79-deec-4aff-8e65-7c48f08fe9d9))
   (pad "1" thru_hole oval (at 5.1 -3.9 180) (size 2.5 2) (drill oval 1.2 0.8) (layers *.Cu "F.SilkS" "B.Mask") (tstamp 6e1d1d88-b1e2-4215-95d0-c3e359aa9473))
-  (pad "1" thru_hole circle (at -3.4 -2.9 180) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask) (tstamp 92637b8c-ae4a-4ed7-a638-1492597adfe0))
+  (pad "1" thru_hole circle (at -3.4 -2.9 180) (size 1.6 1.6) (drill 1.1) (layers *.Cu "F.SilkS" "B.Mask") (tstamp 92637b8c-ae4a-4ed7-a638-1492597adfe0))
   (pad "1" thru_hole oval (at -3.81 -2.54) (size 2.5 2) (drill oval 1.2 0.8) (layers *.Cu "F.SilkS" "B.Mask") (tstamp dea5d89a-3edd-44e1-a73d-9a69a46ce67f))
   (pad "2" thru_hole oval (at 0 -5.9 180) (size 2.266 2) (drill oval 1.2 0.8 (offset 0.117 0)) (layers *.Cu "F.SilkS" "B.Mask") (tstamp 6e03dfb5-2155-4073-82bb-0e14ca8160c5))
   (pad "2" thru_hole oval (at 2.54 -5.08) (size 2.266 2) (drill oval 1.2 0.8 (offset -0.117 0)) (layers *.Cu "F.SilkS" "B.Mask") (tstamp b5a6a2f4-7844-44c1-b17a-18a25907c1cf))
-  (pad "2" thru_hole circle (at -3.400008 1.999836 180) (size 1.4 1.4) (drill 1.1) (layers *.Cu *.Mask) (tstamp c15579a6-f8a6-41a3-87c4-9189c074a7aa))
+  (pad "2" thru_hole circle (at -3.400008 1.999836 180) (size 1.4 1.4) (drill 1.1) (layers *.Cu "F.SilkS" "B.Mask") (tstamp c15579a6-f8a6-41a3-87c4-9189c074a7aa))
   (model "/Users/foostan/src/github.com/foostan/kbd/kicad-packages3D/kbd.3dshapes/Kailh-CherryMX-Socket.step"
     (offset (xyz -1.3 7.6 -3.6))
     (scale (xyz 1 1 1))
