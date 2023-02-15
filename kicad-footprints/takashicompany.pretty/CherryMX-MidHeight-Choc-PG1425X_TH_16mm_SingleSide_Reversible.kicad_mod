@@ -1,4 +1,4 @@
-(footprint "CherryMX-MidHeight-Choc_PG1425X_TH_16mm_SingleSide_Reversible" (version 20211014) (generator pcbnew)
+(footprint "CherryMX-MidHeight-Choc-PG1425X_TH_16mm_SingleSide_Reversible" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62160CFC)
   (attr through_hole)
