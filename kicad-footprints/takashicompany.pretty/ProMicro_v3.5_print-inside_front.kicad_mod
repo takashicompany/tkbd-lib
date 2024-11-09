@@ -1,4 +1,4 @@
-(footprint "ProMicro_v3.5_print-inside_singleside" (version 20221018) (generator pcbnew)
+(footprint "ProMicro_v3.5_print-inside_front" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "U1" (at 0 -5.715 270) (layer "F.SilkS") hide
